@@ -48,6 +48,25 @@ I am actively seeking collaboration opportunities with researchers for projects 
 Feel free to reach out to me:
 
 
+<div align="left">
+   <a href="https://github.com/imumarfarooq">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="mailto:imumarfarooq97@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />  
+  </a>
+     <a href="[https://github.com/imumarfarooq](https://www.linkedin.com/in/umarfarooq97/)">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> 
+  </a>
+   </a>
+     <a href="[https://github.com/imumarfarooq](https://medium.com/@imUmarFarooq)">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
+
+ <br />
+
+
 Let's connect and explore the fascinating world of innovation and technology together! 🌐✨
 
 
@@ -59,6 +78,8 @@ Let's connect and explore the fascinating world of innovation and technology tog
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imumarfarooq&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+
 
 
 
