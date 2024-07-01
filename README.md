@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! I'm Umar 👋
 
-<!--
-**imumarfarooq/imumarfarooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 Computer Vision Researcher (Medical Imaging) at the Hong Kong Industrial Artificial Intelligence & Robotics Centre (FLAIR)
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a keen interest in Autonomous Mobility and the intersection of Medical Imaging and Artificial Intelligence, particularly focusing on:
+
+
+<ul>
+  <li> Medical Image Analysis 🩺 </li>
+  <li> Computer-Aided Diagnosis 👨🏻‍💻 </li>
+  <li> Machine and Deep Learning 🧠 </li>
+  <li> Wireless Technologies 🛜 </li>
+  <li> Computer Vision 🤖 </li>
+</ul>  
+
+
+
+
